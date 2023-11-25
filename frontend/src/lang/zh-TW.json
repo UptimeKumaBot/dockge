@@ -90,5 +90,6 @@
     "Allowed commands:": "允許使用的指令:",
     "Internal Networks": "內部網路",
     "External Networks": "外部網路",
-    "No External Networks": "無外部網路"
+    "No External Networks": "無外部網路",
+    "reverseProxyMsg1": "使用了反向代理？"
 }
