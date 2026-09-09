@@ -134,5 +134,9 @@
     "ConsoleNotEnabledMSG1": "Konsol är ett kraftfullt verktyg som tillåter dig att exekvera valfritt kommando som tex. <code>docker</code>, <code>rm</code> inifrån Dockges kontainer i detta webbui.",
     "confirmLeaveStack": "Du redigerar för närvarande en stack. Är du säker att du vill lämna?",
     "ConsoleNotEnabledMSG2": "Det kan vara farligt eftersom Dockge kontainern ansluter till värdens Docker demon. Dockge kan också eventuellt tas ned genom kommandon som <code>rm -rf</code>",
-    "ConsoleNotEnabledMSG3": "Om du förstår risken, kan du aktivera det genom inställningen <code>DOCKGE_ENABLE_CONSOLE=true</code> i miljövariablerna."
+    "ConsoleNotEnabledMSG3": "Om du förstår risken, kan du aktivera det genom inställningen <code>DOCKGE_ENABLE_CONSOLE=true</code> i miljövariablerna.",
+    "name": "Dockge Agent Visningsnamn",
+    "updatedName": "Nytt Dockge Agent Visningsnamn",
+    "memory": "Minne",
+    "networkIO": "Nätverk I/O"
 }
