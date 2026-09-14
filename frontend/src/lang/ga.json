@@ -120,7 +120,7 @@
     "Updated": "Nuashonraithe",
     "Started": "Thosaigh",
     "Stopped": "Stopadh",
-    "Restarted": "Atosaigh",
+    "Restarted": "Atosaíodh",
     "Downed": "Tugtha anuas",
     "Switch to sh": "Athraigh go sh",
     "terminal": "Teirminéal",
@@ -140,7 +140,7 @@
     "updatedName": "Ainm taispeána nua Gníomhaire Dockge",
     "CPU": "LAP",
     "memory": "Cuimhne",
-    "memoryAbbreviated": "Cuimhne",
+    "memoryAbbreviated": "Cuimh",
     "networkIO": "Ionchur/Aschur Líonra",
     "blockIO": "Bloc I/O"
 }
